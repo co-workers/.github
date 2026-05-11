@@ -4,7 +4,7 @@
 
 ## What this is
 
-Co-Workers is an AI operating system for amplified humans.
+Co-Workers is the AI operating system that compounds you and your team.
 
 - **Context** that compounds — your work doesn't start from zero each session.
 - **Agents** that work alongside you — not above you, not instead of you.
