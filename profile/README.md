@@ -30,9 +30,9 @@ Your AI is already amazing at what you ask. Co-Workers makes it amazing at what 
 
 3. **Substrate-pluggable collaboration.** Drive for non-coders, GitHub for engineers. Storage is a plugin, not a religion.
 
-4. **Designed for increased autonomy.** Every break writes a permanent rule making co-workers stronger from failure.
+4. **Designed for increased autonomy.** Trust expands over time as the AI proves itself and self-updates.
 
-5. **Agentic culture.** Human↔AI, AI↔AI. 20+ co-workers, plus rails to build and spawn your own..
+5. **Agentic culture.** Human↔AI, AI↔AI. 20+ co-workers, plus rails to build and spawn your own.
 
 ## What we believe
 
