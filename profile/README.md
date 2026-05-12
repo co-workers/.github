@@ -25,6 +25,7 @@ Your AI is already amazing at what you ask. Co-Workers makes it amazing at what 
 
 - AI is an amplifier, not a compass.
 - Co-worker beats replacement at every measurable outcome.
+- Not a smaller team. A wider human.
 - The future of work isn't fewer humans. It's better-equipped ones.
 - Human + AI beats AI itself or Human itself.
 
@@ -33,6 +34,9 @@ Your AI is already amazing at what you ask. Co-Workers makes it amazing at what 
 → **[co-workers/co-workers](https://github.com/co-workers/co-workers)** — the OS itself.
 
 ---
+
+> *Esto potencia al humano que no reemplaza.*  
+> — [What is Intelligence →](https://chuycepeda.substack.com/p/what-is-intelligence)
 
 *Ship humans with co-workers.*  
 *Open source. Portable. Yours.*
