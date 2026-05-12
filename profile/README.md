@@ -7,7 +7,8 @@ Almost everyone selling or talking about AI right now is aiming at replacement, 
 Klarna tried. IBM tried. Commonwealth tried. Block tried. They all are quietly rehiring back.
 
 The other story — *AI as a co-worker* — is the one your team actually wants. 
-The one you need to get more bandwidth for yourself and more productivity across your teams.
+
+Get more bandwidth for yourself and more productivity across your teams.
 
 Co-workers is the system for that story.
 
@@ -16,22 +17,22 @@ Co-workers is the system for that story.
 Co-Workers is the AI operating system that compounds you and your teams.
 
 - **Context** that compounds — your work doesn't start from zero each session.
-- **Agents** that work alongside you — not above you, not instead of you.
 - **Intent** that governs — your AI follows your rules, not someone else's defaults.
+- **Agents** that work alongside you — not above you, not instead of you.
 
 Your AI is already amazing at what you ask. Co-Workers makes it amazing at what you forgot to ask.
 
 ## What makes this unique
 
-1. **Three-layer context that compounds.** Declared + observed + intent. After a month, your AI knows things about you that aren't in any file.
+1. **Three-layer context that compounds.** After a month, your AI knows things about you that aren't in any file.
 
-2. **Load-bearing daily rituals.** `/today`, `/close-day`, `/close-session` + 20 more. They make your work lighter and your business compound. *Logging is not routing.*
+2. **Load-bearing daily rituals.** 20+ built-in commands that make your work lighter, compounding you, your team and and your business. 
 
-3. **Substrate-pluggable collaboration.** Drive for non-coders, GitHub for engineers, local for testing. *Storage is a plugin, not a religion.*
+3. **Substrate-pluggable collaboration.** Drive for non-coders, GitHub for engineers, local for testing. Storage is a plugin, not a religion.
 
-4. **Antifragile by design.** Every break writes a permanent rule on the spot. *Stronger from failure, not in spite of it.*
+4. **Antifragile by design for increased autonomy.** Every break writes a permanent rule on the spot. Stronger from failure, not in spite of it.
 
-5. **Agentic culture, end-to-end.** Human↔AI, AI↔AI, AI↔substrate. 20+ co-workers in the box, plus rails to build your own. *There are no bad agents, only bad operators.*
+5. **Agentic culture.** Human↔AI, AI↔AI. 20+ co-workers in the box, plus rails to build your own. There are no bad agents, only bad orchestrators.
 
 ## What we believe
 
