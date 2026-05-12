@@ -26,13 +26,13 @@ Your AI is already amazing at what you ask. Co-Workers makes it amazing at what 
 
 1. **Three-layer context that compounds.** After a month, your AI knows things about you that aren't in any file.
 
-2. **Load-bearing daily rituals.** 20+ built-in commands that make your work lighter, compounding you, your team and and your business. 
+2. **Load-bearing daily rituals.** 20+ built-in commands that make your work lighter and your results better. 
 
-3. **Substrate-pluggable collaboration.** Drive for non-coders, GitHub for engineers, local for testing. Storage is a plugin, not a religion.
+3. **Substrate-pluggable collaboration.** Drive for non-coders, GitHub for engineers. Storage is a plugin, not a religion.
 
-4. **Antifragile by design for increased autonomy.** Every break writes a permanent rule on the spot. Stronger from failure, not in spite of it.
+4. **Designed for increased autonomy.** Every break writes a permanent rule making co-workers stronger from failure.
 
-5. **Agentic culture.** Human↔AI, AI↔AI. 20+ co-workers in the box, plus rails to build your own. There are no bad agents, only bad orchestrators.
+5. **Agentic culture.** Human↔AI, AI↔AI. 20+ co-workers, plus rails to build and spawn your own..
 
 ## What we believe
 
