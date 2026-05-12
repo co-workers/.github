@@ -21,6 +21,20 @@ Co-Workers is the AI operating system that compounds you and your teams.
 
 Your AI is already amazing at what you ask. Co-Workers makes it amazing at what you forgot to ask.
 
+## What makes Co-Workers unique
+
+"AI operating system" is everywhere now. Most are CLAUDE.md templates with a few custom prompts — a starting point, not a system that gets smarter about *you* every day. Co-Workers is operationally distinct in five ways:
+
+1. **Three-layer context that compounds.** Declared (what you tell us) + observed (what AI learns about you) + intent (what you want it to want). After a month, your AI knows things about you that aren't in any file you wrote.
+
+2. **Load-bearing daily rituals.** `/today`, `/close-day`, `/close-session` are the nervous system — they route session insights to where the AI gets smarter, not just where you can find them later. Logging is not routing.
+
+3. **Substrate-pluggable collaboration.** Storage is a plugin, not a religion. Drive for non-coders, GitHub for engineers, local folders for testing — one command, same artifacts, same routing.
+
+4. **Antifragile by design.** Every break writes a permanent rule. The system gets stronger from failure, not in spite of it. No retros, no backlogs — the fix lands at the moment of failure.
+
+5. **Agentic culture, end-to-end.** Every agent inherits the same operating principles — human↔AI, AI↔AI, AI↔substrate. *There are no bad agents, only bad operators.*
+
 ## What we believe
 
 - AI is an amplifier, not a compass.
