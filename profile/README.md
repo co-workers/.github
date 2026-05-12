@@ -21,19 +21,17 @@ Co-Workers is the AI operating system that compounds you and your teams.
 
 Your AI is already amazing at what you ask. Co-Workers makes it amazing at what you forgot to ask.
 
-## What makes Co-Workers unique
+## What makes this unique
 
-"AI operating system" is everywhere now. Most are CLAUDE.md templates with a few custom prompts — a starting point, not a system that gets smarter about *you* every day. Co-Workers is operationally distinct in five ways:
+1. **Three-layer context that compounds.** Declared + observed + intent. After a month, your AI knows things about you that aren't in any file.
 
-1. **Three-layer context that compounds.** Declared (what you tell us) + observed (what AI learns about you) + intent (what you want it to want). After a month, your AI knows things about you that aren't in any file you wrote.
+2. **Load-bearing daily rituals.** `/today`, `/close-day`, `/close-session` + 20 more. They make your work lighter and your business compound. *Logging is not routing.*
 
-2. **Load-bearing daily rituals.** `/today`, `/close-day`, `/close-session` are the nervous system — they route session insights to where the AI gets smarter, not just where you can find them later. 20+ commands in the box make your work lighter and your business compound. *Logging is not routing.*
+3. **Substrate-pluggable collaboration.** Drive for non-coders, GitHub for engineers, local for testing. *Storage is a plugin, not a religion.*
 
-3. **Substrate-pluggable collaboration.** Storage is a plugin, not a religion. Drive for non-coders, GitHub for engineers, local folders for testing — one command, same artifacts, same routing.
+4. **Antifragile by design.** Every break writes a permanent rule on the spot. *Stronger from failure, not in spite of it.*
 
-4. **Antifragile by design.** Every break writes a permanent rule. The system gets stronger from failure, not in spite of it. No retros, no backlogs — the fix lands at the moment of failure.
-
-5. **Agentic culture, end-to-end.** Every agent inherits the same operating principles — human↔AI, AI↔AI, AI↔substrate. Shipped with 20+ essential co-workers and the rails to build your own. *There are no bad agents, only bad operators.*
+5. **Agentic culture, end-to-end.** Human↔AI, AI↔AI, AI↔substrate. 20+ co-workers in the box, plus rails to build your own. *There are no bad agents, only bad operators.*
 
 ## What we believe
 
@@ -42,6 +40,7 @@ Your AI is already amazing at what you ask. Co-Workers makes it amazing at what 
 - Not a smaller team. A wider human.
 - The future of work isn't fewer humans. It's better-equipped ones.
 - Human + AI beats AI itself or Human itself.
+- Portable beats proprietary. Yours beats theirs.
 
 ## Where to start
 
